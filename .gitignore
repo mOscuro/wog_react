@@ -1,0 +1,9 @@
+build/
+node_modules/
+.idea
+.npmrc
+.yarnrc
+npm-debug.log
+yarn-error.log
+.DS_Store
+.env
